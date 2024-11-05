@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imayeiko.github.io/AdS/sitemap_index.txt
+Sitemap: https://imayeiko.github.io/GjA/sitemap_index.txt
+Sitemap: https://imayeiko.github.io/IFc/sitemap_index.txt
+Sitemap: https://imayeiko.github.io/Txu/sitemap_index.txt
